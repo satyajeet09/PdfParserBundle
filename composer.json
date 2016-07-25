@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-    "smalot/pdfparser": "0.9.*"
+    "smalot/pdfparser": "dev-master#427d8cb7ad9dc0e87b98d8a96beaf98bf0e83f97"
   },
   "autoload": {
     "psr-4": {
