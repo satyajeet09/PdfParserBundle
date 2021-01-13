@@ -7,8 +7,8 @@
   "license": "MIT",
   "repositories":[
     {
-      "type": "git",
-      "url": "git://github.com/kreatys/PdfParserBundle.git"
+      "type": "vcs",
+      "url": "https://github.com/satyajeet09/PdfParserBundle.git"
     }
   ],
   "authors": [
